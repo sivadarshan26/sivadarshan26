@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivadarshan26" alt="sivadarshan26" /></a> </p>
 
-- 🔭 I’m currently working on [ERPS](https://github.com/HARISHKUMAR023/ERP)
+- 🔭 I’m currently working on [ZETA](https://github.com/sivadarshan26/ProjectZeta)
 
 - 🌱 I’m currently learning **Electron and react and MERN**
 
